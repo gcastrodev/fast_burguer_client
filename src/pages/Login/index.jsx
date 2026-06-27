@@ -1,6 +1,6 @@
+import { Button } from '../../components/Button';
 import Logo from '../../assets/fastburguer_logo.png';
 import {
-  Button,
   Container,
   Form,
   InputContainer,
